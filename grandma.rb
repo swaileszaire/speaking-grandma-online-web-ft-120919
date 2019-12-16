@@ -20,4 +20,3 @@ puts "I LOVE YOU TOO PUMPKIN!"
 else phrase == phrase.downcase
 puts "HUH?! SPEAK UP SONNY!"
 end
-end
